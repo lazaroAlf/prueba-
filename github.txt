@@ -1,0 +1,3 @@
+git status- muestra los recientes cambios que se han hecho en un commits
+git- muestra los comandos de git 
+git diff- muestra los cambios que se han hecho desde lo que se ha borrado.
